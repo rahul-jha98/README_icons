@@ -1,0 +1,120 @@
+<svg width="76" height="76" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M52.424 46.38L22.451 64.176l38.812-2.625 2.987-39.143-11.826 23.97z" fill="url(#Ruby__paint0_linear)"/>
+  <path d="M61.325 61.516l-3.336-23.023-9.086 12 12.422 11.023z" fill="url(#Ruby__paint1_linear)"/>
+  <path d="M61.37 61.516l-24.439-1.918-14.351 4.528 38.79-2.61z" fill="url(#Ruby__paint2_linear)"/>
+  <path d="M22.614 64.132l6.105-20L15.284 47l7.33 17.132z" fill="url(#Ruby__paint3_linear)"/>
+  <path d="M48.9 50.563l-5.626-22.004-16.068 15.066 21.693 6.938z" fill="url(#Ruby__paint4_linear)"/>
+  <path d="M62.975 28.863l-15.188-12.41-4.231 13.687 19.419-1.277z" fill="url(#Ruby__paint5_linear)"/>
+  <path d="M55.869 12.027l-8.938 4.94-5.639-5.007 14.577.067z" fill="url(#Ruby__paint6_linear)"/>
+  <path d="M11.75 53.712l3.75-6.828-3.034-8.134-.716 14.962z" fill="url(#Ruby__paint7_linear)"/>
+  <path d="M12.264 38.493l3.049 8.644 13.24-2.97L43.67 30.125l4.267-13.558-6.718-4.744-11.42 4.275c-3.6 3.34-10.583 9.968-10.834 10.09-.251.121-4.61 8.37-6.701 12.303v.002z" fill="#fff"/>
+  <path d="M22.964 22.964c7.799-7.73 17.849-12.3 21.71-8.401 3.86 3.898-.233 13.351-8.032 21.082-7.798 7.73-17.728 12.544-21.583 8.651-3.855-3.892.107-13.608 7.905-21.332z" fill="url(#Ruby__paint8_linear)"/>
+  <path d="M22.614 64.124l6.058-20.062 20.117 6.463c-7.273 6.821-15.364 12.587-26.175 13.601v-.002z" fill="url(#Ruby__paint9_linear)"/>
+  <path d="M43.696 30.076l5.164 20.456c6.075-6.388 11.53-13.256 14.2-21.75l-19.366 1.296.002-.002z" fill="url(#Ruby__paint10_linear)"/>
+  <path d="M63.007 28.886c2.062-6.238 2.544-15.188-7.202-16.847l-7.997 4.415 15.199 12.43v.002z" fill="url(#Ruby__paint11_linear)"/>
+  <path d="M11.75 53.623c.287 10.293 7.714 10.447 10.875 10.537l-7.313-17.063-3.562 6.526z" fill="#9E1209"/>
+  <path d="M43.724 30.108c4.67 2.87 14.08 8.625 14.27 8.74a32.91 32.91 0 004.91-10.019l-19.18 1.281v-.002z" fill="url(#Ruby__paint12_radial)"/>
+  <path d="M28.664 44.06l8.099 15.622a52.358 52.358 0 0011.971-9.15L28.672 44.06h-.008z" fill="url(#Ruby__paint13_radial)"/>
+  <path d="M15.288 47.114l-1.147 13.664c2.165 2.956 5.143 3.213 8.266 2.983-2.259-5.625-6.776-16.875-7.124-16.647h.005z" fill="url(#Ruby__paint14_linear)"/>
+  <path d="M47.761 16.49l16.088 2.25c-.859-3.637-3.495-5.985-7.99-6.72l-8.098 4.463v.007z" fill="url(#Ruby__paint15_linear)"/>
+  <defs>
+    <linearGradient id="Ruby__paint0_linear" x1="57.739" y1="68.918" x2="46.717" y2="49.14" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FB7655"/>
+      <stop offset=".41" stop-color="#E42B1E"/>
+      <stop offset=".99" stop-color="#900"/>
+      <stop offset="1" stop-color="#900"/>
+    </linearGradient>
+    <linearGradient id="Ruby__paint1_linear" x1="63.378" y1="52.497" x2="47.835" y2="49.435" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#871101"/>
+      <stop offset=".99" stop-color="#911209"/>
+      <stop offset="1" stop-color="#911209"/>
+    </linearGradient>
+    <linearGradient id="Ruby__paint2_linear" x1="-1637110" y1="17213.8" x2="-1637110" y2="17189.9" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#871101"/>
+      <stop offset=".99" stop-color="#911209"/>
+      <stop offset="1" stop-color="#911209"/>
+    </linearGradient>
+    <linearGradient id="Ruby__paint3_linear" x1="22.038" y1="45.59" x2="26.64" y2="59.159" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset=".23" stop-color="#E57252"/>
+      <stop offset=".46" stop-color="#DE3B20"/>
+      <stop offset=".99" stop-color="#A60003"/>
+      <stop offset="1" stop-color="#A60003"/>
+    </linearGradient>
+    <linearGradient id="Ruby__paint4_linear" x1="37.352" y1="32.033" x2="38.165" y2="46.653" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset=".23" stop-color="#E4714E"/>
+      <stop offset=".56" stop-color="#BE1A0D"/>
+      <stop offset=".99" stop-color="#A80D00"/>
+      <stop offset="1" stop-color="#A80D00"/>
+    </linearGradient>
+    <linearGradient id="Ruby__paint5_linear" x1="50.887" y1="18.342" x2="52.04" y2="28.928" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset=".18" stop-color="#E46342"/>
+      <stop offset=".4" stop-color="#C82410"/>
+      <stop offset=".99" stop-color="#A80D00"/>
+      <stop offset="1" stop-color="#A80D00"/>
+    </linearGradient>
+    <linearGradient id="Ruby__paint6_linear" x1="43.091" y1="15.073" x2="44.806" y2="7.737" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset=".54" stop-color="#C81F11"/>
+      <stop offset=".99" stop-color="#BF0905"/>
+      <stop offset="1" stop-color="#BF0905"/>
+    </linearGradient>
+    <linearGradient id="Ruby__paint7_linear" x1="12.918" y1="42.02" x2="17.481" y2="44.943" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset=".31" stop-color="#DE4024"/>
+      <stop offset=".99" stop-color="#BF190B"/>
+      <stop offset="1" stop-color="#BF190B"/>
+    </linearGradient>
+    <linearGradient id="Ruby__paint8_linear" x1="7.089" y1="52.81" x2="47.657" y2="10.702" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#BD0012"/>
+      <stop offset=".07" stop-color="#fff"/>
+      <stop offset=".17" stop-color="#fff"/>
+      <stop offset=".27" stop-color="#C82F1C"/>
+      <stop offset=".33" stop-color="#820C01"/>
+      <stop offset=".46" stop-color="#A31601"/>
+      <stop offset=".72" stop-color="#B31301"/>
+      <stop offset=".99" stop-color="#E82609"/>
+      <stop offset="1" stop-color="#E82609"/>
+    </linearGradient>
+    <linearGradient id="Ruby__paint9_linear" x1="37.924" y1="57.431" x2="26.321" y2="52.483" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8C0C01"/>
+      <stop offset=".54" stop-color="#990C00"/>
+      <stop offset=".99" stop-color="#A80D0E"/>
+      <stop offset="1" stop-color="#A80D0E"/>
+    </linearGradient>
+    <linearGradient id="Ruby__paint10_linear" x1="59.155" y1="42.228" x2="47.279" y2="33.873" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7E110B"/>
+      <stop offset=".99" stop-color="#9E0C00"/>
+      <stop offset="1" stop-color="#9E0C00"/>
+    </linearGradient>
+    <linearGradient id="Ruby__paint11_linear" x1="63.053" y1="24.361" x2="57.377" y2="18.68" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#79130D"/>
+      <stop offset=".99" stop-color="#9E120B"/>
+      <stop offset="1" stop-color="#9E120B"/>
+    </linearGradient>
+    <linearGradient id="Ruby__paint14_linear" x1="18.646" y1="64.053" x2="8.74" y2="55.774" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B2114"/>
+      <stop offset=".43" stop-color="#9E100A"/>
+      <stop offset=".99" stop-color="#B3100C"/>
+      <stop offset="1" stop-color="#B3100C"/>
+    </linearGradient>
+    <linearGradient id="Ruby__paint15_linear" x1="52.931" y1="14.483" x2="55.732" y2="21.59" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B31000"/>
+      <stop offset=".44" stop-color="#910F08"/>
+      <stop offset=".99" stop-color="#791C12"/>
+      <stop offset="1" stop-color="#791C12"/>
+    </linearGradient>
+    <radialGradient id="Ruby__paint12_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(13.2686 0 0 6.93334 49.986 32.693)">
+      <stop stop-color="#A80D00"/>
+      <stop offset=".99" stop-color="#7E0E08"/>
+      <stop offset="1" stop-color="#7E0E08"/>
+    </radialGradient>
+    <radialGradient id="Ruby__paint13_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(17.7208 0 0 13.7949 31.607 50.354)">
+      <stop stop-color="#A30C00"/>
+      <stop offset=".99" stop-color="#800E08"/>
+      <stop offset="1" stop-color="#800E08"/>
+    </radialGradient>
+  </defs>
+</svg>
